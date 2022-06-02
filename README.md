@@ -1,2 +1,1 @@
-# c-30-fixed
-SUS
+# PRO-V2-C30-Modelo
